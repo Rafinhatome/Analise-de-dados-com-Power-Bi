@@ -15,5 +15,5 @@ Primeira tela do relatório
 Segunda tela do relatório
 ![Segunda Tela](Tela2.png)
 
-Publicação do relatório no Power BI Service
+Publicação do relatório no Power Bi Service
 ![Publicacao](publicacao.png)
